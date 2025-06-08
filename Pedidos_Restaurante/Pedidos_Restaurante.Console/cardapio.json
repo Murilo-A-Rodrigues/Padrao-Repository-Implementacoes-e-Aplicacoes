@@ -1,0 +1,16 @@
+[
+  {
+    "VolumeMl": 1000,
+    "Alcoolica": false,
+    "Id": "29e7184b-4a63-4850-8165-c13c62861ed1",
+    "NomeItem": "suco de laranja",
+    "Preco": 12
+  },
+  {
+    "DescricaoDetalhada": "Pastel frito na hora. Sabores: Carne, frango, pizza, queijo, vento.",
+    "Vegetariano": true,
+    "Id": "d9335061-32a5-461f-a0f1-00932ea116f5",
+    "NomeItem": "Pastel",
+    "Preco": 20
+  }
+]
