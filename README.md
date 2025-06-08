@@ -1,0 +1,1 @@
+# Padr-o-Repository-Implementa-es-e-Aplica-es
