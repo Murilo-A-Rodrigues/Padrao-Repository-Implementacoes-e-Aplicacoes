@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "c08c7195-3277-41be-9751-5d3df790b8ef",
+    "NomeArquivo": "as",
+    "TipoArquivo": "jpg",
+    "TamanhoBytes": 49,
+    "DataUpload": "2025-06-08T18:09:13.6056829-03:00"
+  },
+  {
+    "Id": "947fe0f6-d309-4978-8bcf-b024b428a6dd",
+    "NomeArquivo": "do",
+    "TipoArquivo": "pdf",
+    "TamanhoBytes": 9000,
+    "DataUpload": "2025-06-08T18:09:37.4074548-03:00"
+  }
+]
